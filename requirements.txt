@@ -1,0 +1,8 @@
+colored
+pyfiglet
+AminoLab
+tabulate
+bs4
+secmail
+names
+requests
